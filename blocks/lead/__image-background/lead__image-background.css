@@ -2,3 +2,15 @@
   max-width: 984px;
   width: 100%;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__image-background {
+    max-width: 928px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .lead__image-background {
+    max-width: none;
+  }
+}

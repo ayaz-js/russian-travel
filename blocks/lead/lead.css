@@ -1,3 +1,9 @@
 .lead {
   padding: 62px 0 0;
 }
+
+@media all and (max-width: 425px) {
+  .lead {
+    padding: 54px 0 0;
+  }
+}
