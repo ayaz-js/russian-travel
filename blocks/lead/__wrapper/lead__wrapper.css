@@ -3,5 +3,18 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 984px;
   margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__wrapper {
+    max-width: 928px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .lead__wrapper {
+    max-width: none;
+  }
 }
