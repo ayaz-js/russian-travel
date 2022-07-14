@@ -1,0 +1,10 @@
+.intro__wrapper {
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+@media all and (max-width: 1024px) {
+  .intro__wrapper {
+    max-width: 928px;
+  }
+}

@@ -1,14 +1,6 @@
 .intro {
-  max-width: 984px;
-  width: 100%;
   padding: 92px 0 0;
   box-sizing: border-box;
-}
-
-@media all and (max-width: 1024px) {
-  .intro {
-    max-width: 928px;
-  }
 }
 
 @media all and (max-width: 768px) {
