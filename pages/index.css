@@ -1,5 +1,6 @@
 /* Normalize */
 @import url('../vendor/normalize.css');
+@import url('../vendor/fonts.css');
 
 /* Page */
 @import url('../blocks/page/page.css');
@@ -24,3 +25,10 @@
 @import url('../blocks/lead/__image-background/lead__image-background.css');
 @import url('../blocks/lead/__image-road/lead__image-road.css');
 @import url('../blocks/lead/__caption/lead__caption.css');
+
+/* Intro */
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__title/intro__title.css');
+@import url('../blocks/intro/__text/intro__text.css');
+@import url('../blocks/intro/__list/intro__list.css');
+@import url('../blocks/intro/__list-item/intro__list-item.css');
