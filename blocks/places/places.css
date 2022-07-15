@@ -1,0 +1,22 @@
+.places {
+  display: flex;
+  flex-direction: column;
+  gap: 80px 0;
+  max-width: 984px;
+  width: 100%;
+  padding: 92px 0 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .places {
+    max-width: 720px;
+  }
+}

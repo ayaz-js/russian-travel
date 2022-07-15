@@ -1,0 +1,10 @@
+.place__website {
+  display: grid;
+  align-content: end;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .place__website {
+    padding: 0 16px;
+  }
+}
