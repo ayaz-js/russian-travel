@@ -18,12 +18,12 @@
 @media (min-width: 768px) and (max-width: 1023px) {
   .places {
     max-width: 720px;
-    gap: 72px 0 ;
+    gap: 72px 0;
   }
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
   .places {
-    gap: 50px 0 ;
+    gap: 50px 0;
   }
 }
