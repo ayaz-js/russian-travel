@@ -3,6 +3,8 @@
   line-height: 28px;
   color: #fff;
   text-decoration: none;
+  opacity: 1;
+  transition: .5s ease-in-out;
 }
 
 @media all and (max-width: 425px) {
