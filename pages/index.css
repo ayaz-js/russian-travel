@@ -1,6 +1,11 @@
+/* Fonts */
+@import url('../vendor/fonts.css');
+
 /* Normalize */
 @import url('../vendor/normalize.css');
-@import url('../vendor/fonts.css');
+
+/* hover */
+@import url('../blocks/hover-link/hover-link.css');
 
 /* Page */
 @import url('../blocks/page/page.css');
