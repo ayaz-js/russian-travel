@@ -3,3 +3,9 @@
   text-align: center;
   margin-top: 64px;
 }
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .lead__image-conatainer {
+    margin-top: 40px;
+  }
+}
