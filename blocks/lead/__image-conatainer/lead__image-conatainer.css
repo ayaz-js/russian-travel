@@ -1,11 +1,12 @@
 .lead__image-conatainer {
   position: relative;
   text-align: center;
-  margin-top: 64px;
+  line-height: 0;
+  margin: 64px 0 0;
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
   .lead__image-conatainer {
-    margin-top: 40px;
+    margin: 40px 0 0;
   }
 }
