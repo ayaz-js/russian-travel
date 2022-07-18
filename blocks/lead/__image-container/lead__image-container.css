@@ -1,11 +1,11 @@
-.lead__image-conatainer {
+.lead__image-container {
   position: relative;
   line-height: 0;
   margin: 64px 0 0;
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
-  .lead__image-conatainer {
+  .lead__image-container {
     margin: 40px 0 0;
   }
 }
